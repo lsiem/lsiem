@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://lsiem.de/](https://lsiem.de/)
 
-- ⚡ Fun fact **I use arch btw**
+- ⚡ Fun fact **I use artix btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
