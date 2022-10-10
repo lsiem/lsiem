@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsiem" alt="lsiem" /></a> </p>
 
-- 🔭 I’m currently working on [CMS system for a digital signage company](private atm)
+- 🔭 I’m currently working on a CMS system for a digital signage company and a distribution partner portal for EWE Aktiengesellschaft (https://ewe.de) 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lsiem](https://github.com/lsiem)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://lsiem.de/](https://lsiem.de/)
 
-- ⚡ Fun fact **I use artix btw**
+- ⚡ Fun fact **I use Artix btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
