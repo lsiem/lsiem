@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lasse</h1>
-<h3 align="center">21 years old hobby developer</h3>
+<h3 align="center">22 years old FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsiem&label=Profile%20views&color=0e75b6&style=flat" alt="lsiem" /> </p>
 
