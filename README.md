@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lsiem&label=Profile%20views&color=0e75b6&style=flat" alt="lsiem" /> </p>
 
-<h2 align="left">Hello 👋! My name is Lasse and I'm a 23 year old self-taught full stack software developer</h2>
+<h2 align="left">Hello 👋! My name is Lasse and I'm a 24 year old self-taught full stack software developer</h2>
 
 ###
 
